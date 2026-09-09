@@ -10,7 +10,7 @@ namespace Undoing_Mistakes_Demo
     {
         static void Main(string[] args)
         {
-          
+            Console.WriteLine("Salamo alaykom hazebi");
         }
     }
 }
