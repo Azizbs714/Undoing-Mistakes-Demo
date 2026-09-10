@@ -8,5 +8,8 @@ namespace Undoing_Mistakes_Demo
 {
     internal class clsUser
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string email { get; set; }
     }
 }
